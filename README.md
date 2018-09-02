@@ -4,7 +4,7 @@ Tutorial from [https://tutorialedge.net/golang/go-webassembly-tutorial/](https:/
 ## Setup
 To use the _syscall/js_ package do the following,
 
-### Intellij
+### GoLand
 1. Go to _Settings_ -> _Go_ -> _Vendoring & Build Tags_
 2. Change value of __OS__ to _js_
 3. Change value of __Arch__ to _wasm_
